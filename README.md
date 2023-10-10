@@ -1,4 +1,7 @@
-[![MasterHead](https://images.hdqwalls.com/download/i-love-coding-xl-1600x900.jpg)](www.linkedin.com/in/veronica-jimenez-s)
+[![MasterHead](<img
+  src="https://images.hdqwalls.com/download/i-love-coding-xl-1600x900.jpg"
+  alt="Veronica Jimenez"  
+  style="display: inline-block; margin: 0 auto; max-width: 300px">)](www.linkedin.com/in/veronica-jimenez-s)
 <h1 align="center">Hi 👋, I'm Verónica Jiménez</h1>
 <h3 align="center">Promising and passionate Full Stack developer, who is constantly learning and growing.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
